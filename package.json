@@ -1,0 +1,15 @@
+{
+  "name": "minenhle",
+  "version": "1.0.0",
+  "description": "my-portfolio",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Minenhle",
+  "license": "ISC",
+  "homepage": "https://MinenhleSolson.github.io/mywebsite",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
